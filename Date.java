@@ -3,5 +3,9 @@ public class Date{
 
           retuen new date();
 }
+    //CR122
+         public String doProcess(){
+           //logic      
+     }
 
 }
